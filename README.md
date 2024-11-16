@@ -1,2 +1,3 @@
 # BaristaBot
-Your Personal Barista.
+The Barista Bot is a smart coffee-making assistant that uses Google Gemini and LangGraph to simplify ordering and serving coffee. With Google Gemini, it understands both spoken and visual inputs, allowing customers to make detailed orders like a "double-shot oat milk latte with two pumps of vanilla at 60°C." LangGraph helps manage the process by organizing tasks into a visual graph of connected nodes, showing steps like checking ingredients, operating machines, and notifying customers. This visual representation makes it easy to track and optimize the workflow. By combining advanced AI and clear task visualization, the Barista Bot speeds up service, personalizes orders, and reduces staff workload, creating a better experience for everyone.
+![Black We Are Hiring Barista Instagram Post](https://github.com/user-attachments/assets/77e2fe12-eded-49a1-9fa7-42c8fb1b7299)
